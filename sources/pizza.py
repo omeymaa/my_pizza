@@ -35,5 +35,10 @@ RECIPES = {
     'mediterranea': {
         'ingredients': {'mozzarella': 3, 'pepper': 4, 'onion': 3},
         'price': 11,
-    }
+    },
+    'niouniou': {
+        'ingredients': {'mozzarella': 3, 'pepper': 4, 'gorgonzola': 4},
+        'price': 14,
+    },
+
 }
